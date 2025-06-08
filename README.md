@@ -1,10 +1,10 @@
 # 🎲 Dice Game
 
-A simple web-based dice game built with HTML, CSS, and JavaScript. Refresh the page or click the button to "roll" two dice and see which player wins.
+A simple web-based dice game built with HTML, CSS, and JavaScript. Click the button to roll two dice and see which player wins.
 
 ## 🚀 How It Works
 
-- Two dice are rolled on each refresh or button click.
+- Two dice are rolled on each button click.
 - A random number between 1–6 is generated for each die.
 - The images update accordingly, and the winner is displayed based on the higher roll.
 
