@@ -11,7 +11,7 @@ A simple web-based dice game built with HTML, CSS, and JavaScript. Click the but
 ## 📸 Preview
 ![Dice Game Screenshot]![sample](https://github.com/user-attachments/assets/165d970c-2f8d-48c0-9930-57618373ebad)![sample-2](https://github.com/user-attachments/assets/ac5da836-9d81-4073-8835-9eaff55b1ba0)
 
- <!-- Optional: replace with your screenshot path -->
+You can TRY IT HERE: [Dice Game](https://jpmartirez.github.io/DiceGame/dicee.html)
 
 ## 🛠️ Technologies Used
 
